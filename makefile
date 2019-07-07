@@ -1,5 +1,5 @@
 setup:
-	python3 -m pip install -Ur requirements.txt
+	python3 -m pip install .
 	python3 -m pip install -U black isort
 
 dev:
